@@ -1,4 +1,5 @@
 //Scott Little, 2013
+//GNU GPLv3
 //Built upon Ketai Library and bluetooth example by Daniel Sauter
 
 //required for BT enabling on startup
