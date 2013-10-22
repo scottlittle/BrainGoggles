@@ -1,0 +1,26 @@
+BrainGoggles Log
+
+Android 2.3, Motorola Droid 3
+Ketai 8b for Gingerbread
+Processing 2.0b7 (64 bit) on Windows 7 (64 bit)
+Arduino 1.0.3 (64 bit), DFRobot Nano ATMega328, DF-BluetoothV3
+
+BrainGoggles is a fork in AntiLightSwitch v.0.0.3
+
+Update 5/24/2013 v.0.0.3
+-BrainGoggles Android removed the drawing of spheres and added an oscilloscope to display the voltage on one input.
+
+Update 8/3/2013 v.0.1
+-BrainGoggles is now v.0.1 to move into Beta version so that when it works, 1.0 will match the board version.
+
+Update 8/7/2013 v.0.2
+-I will now move from v.0.1 to v.0.2 to work since v0.1 shows basic signs of working in the 1.0 board for a single input (input 2)
+-The first thing I'm trying with v.0.2 is updating the IDEs and recompiling:
+Android 2.3.4, Motorola Droid 3
+Ketai 8 for Gingerbread (9 is for Android 2.3.7)
+Processing 2.0.1 (64 bit) on Windows 7 (64 bit)
+Arduino 1.0.5 (no bit specified), "Chinese" Nano 3.0 with ATMega328, DF-BluetoothV3
+-At first glance, it looks like everything worked!
+
+Update 10/22/2013 v.0.4
+- I finally got the Android and Arduino communicating at the same time by putting the bluetooth on different pins and using software serial.
