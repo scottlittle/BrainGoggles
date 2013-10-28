@@ -17,6 +17,7 @@ Arduino 1.0.3 (64 bit), DFRobot Nano ATMega328, DF-BluetoothV3
 
 BrainGoggles is a fork in AntiLightSwitch v.0.0.3
 
+-----------------------------------
 Update 5/24/2013 v.0.0.3
 -BrainGoggles Android removed the drawing of spheres and added an oscilloscope to display the voltage on one input.
 
