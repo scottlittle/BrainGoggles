@@ -5,7 +5,9 @@ The BrainGoggles Project,
 Scott Little, 2013
 GNU GPLv3
 
-BrainGoggles is a project that attempts to create a low-cost NIR brain imaging device.  Currently this consists of an Arduino (with a BrainGoggles shield) and an Android phone.  The Arduino shield consists of 4 LEDs and 16 NIR photodetectors.  I made version 1.0 of the board for testing, but as development picks up speed and I work out some of the bugs, a new version will be released and available for purchase.  Stay tuned at http://www.braingoggles.com for updates on this project.
+BrainGoggles is a project that attempts to create a low-cost NIR brain imaging device.  What are some of the things you could do with it?  How about control a mouse with your mind or be able to teach it basic shapes based on your own vision?  It's up to you!  By making this an open-source project, I hope to just get the ball rolling.  Send me a message at scott.alan.little[at]gmail.com if you are interested in getting involved.  I need real programmers to help me fill in the gaps in my hack-job style programming.  And I need enthusiastic people even if you aren't a programmer! 
+
+Currently this consists of an Arduino (with a BrainGoggles shield) and an Android phone.  The Arduino shield consists of 4 LEDs and 16 NIR photodetectors.  I made version 1.0 of the board for testing, but as development picks up speed and I work out some of the bugs, a new version will be released and available for purchase.  Stay tuned at http://www.braingoggles.com for updates on this project.
 
 -------------------------
 BrainGoggles Log
